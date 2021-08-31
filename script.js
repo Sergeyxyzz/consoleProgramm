@@ -63,11 +63,11 @@ const personalMovieDB = {
 }
 
 personalMovieDB.start()
-// personalMovieDB.rememberMyFilms()
-// personalMovieDB.detectPersonalLevel()
-// personalMovieDB.writeYourGenres()
-// personalMovieDB.showMyDb(personalMovieDB.privat)
-// personalMovieDB.toggleVisibleMyDB()
+personalMovieDB.rememberMyFilms()
+personalMovieDB.detectPersonalLevel()
+personalMovieDB.writeYourGenres()
+personalMovieDB.showMyDb(personalMovieDB.privat)
+personalMovieDB.toggleVisibleMyDB()
 
 console.log(personalMovieDB)
 console.log(personalMovieDB.privat)
