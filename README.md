@@ -1,1 +1,1 @@
-простенькое консольное приложение из учебного курса
+easy console programm from training course 
