@@ -1,1 +1,1 @@
-easy console programm from training course 
+Easy console programm from training course.
